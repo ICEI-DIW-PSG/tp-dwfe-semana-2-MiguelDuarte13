@@ -9,6 +9,8 @@ Matricula: 909425
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
+![Puc] (images/Resultado da pagina.jpg)
+![Puc] (images/inspeção de rede.jpg)
 
 
 ## Orientações sobre Linguagem MarkDown
