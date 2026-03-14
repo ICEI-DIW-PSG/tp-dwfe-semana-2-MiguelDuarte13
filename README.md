@@ -7,9 +7,9 @@ Matricula: 909425
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Galo](images/inspeção%20de%20rede.png)
 
-![Puc](images/inspeção de rede.png)
+![index.html](images/Resultado%20da%20pagina.png)
 
 
 ## Orientações sobre Linguagem MarkDown
